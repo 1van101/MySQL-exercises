@@ -1,3 +1,9 @@
+DROP DATABASE IF EXISTS book_shop;
+
+CREATE DATABASE book_shop;
+
+USE book_shop;
+
 CREATE TABLE books 
 	(
 		book_id INT NOT NULL AUTO_INCREMENT,
