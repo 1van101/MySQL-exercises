@@ -1,3 +1,5 @@
+-- get capitalized authors full names 
+
 SELECT 
     UPPER
     (
